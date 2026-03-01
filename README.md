@@ -10,6 +10,8 @@ This repository contains a beginner-friendly C++ program demonstrating how to us
 
 1. Clone the repository:
 2. Open `newline_example.cpp` in any C++ compiler (e.g., VS Code, Code::Blocks, online compiler)
-3. Compile and run:## Author
+3. Compile and run:
+
+## Author
 
 Zebiniso Rozmatova
