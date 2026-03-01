@@ -1,17 +1,12 @@
-# C++ Newline Example
+## newline_example.cpp – Newline (\n) Usage
 
-This repository contains a beginner-friendly C++ program demonstrating how to use `\n` (newline) for formatting console output.
+A beginner-friendly program to demonstrate how to use the newline character `\n` in C++ for formatting output.
 
-## Project
-
-- newline_example.cpp – Shows how to print output on new lines using `\n` in C++
-
-## How to Run
-
-1. Clone the repository:
-2. Open `newline_example.cpp` in any C++ compiler (e.g., VS Code, Code::Blocks, online compiler)
-3. Compile and run:
-
-## Author
-
-Zebiniso Rozmatova
+Step-by-Step Explanation
+#include <iostream> – Includes the library needed for input/output.
+using namespace std; – Lets you use standard functions without typing std::.
+int main() – The starting point of the program.
+cout << "Hello GitHub\n"; – Prints “Hello GitHub” and moves to a new line.
+cout << "This is on a new line\n"; – Prints the next line on a new line.
+return 0; – Marks the end of the program.
+💡 Tip: Use \n to format console output clearly. Experiment by adding more lines to see how output changes.
